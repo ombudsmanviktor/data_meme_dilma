@@ -1,0 +1,382 @@
+> ## Apresentar resultados
+> print(alpha1)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+     1      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error 2.5 % 97.5 % Boot. technique Bootstraps
+     1          0     1      1    Krippendorff      20000
+     1          0     1      1   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90            1             1
+      0.80            1             1
+      0.70            1             1
+      0.67            1             1
+      0.60            1             1
+      0.50            1             1
+> print(alpha2)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+     1      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error 2.5 % 97.5 % Boot. technique Bootstraps
+     1          0     1      1    Krippendorff      20000
+     1          0     1      1   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90            1             1
+      0.80            1             1
+      0.70            1             1
+      0.67            1             1
+      0.60            1             1
+      0.50            1             1
+> print(alpha3)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+ 0.979      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error 2.5 % 97.5 % Boot. technique Bootstraps
+ 0.979       0.02 0.938      1    Krippendorff      20000
+ 0.980       0.02 0.935      1   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90        0.997         0.996
+      0.80        1.000         1.000
+      0.70        1.000         1.000
+      0.67        1.000         1.000
+      0.60        1.000         1.000
+      0.50        1.000         1.000
+> print(alpha4)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+     1      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error 2.5 % 97.5 % Boot. technique Bootstraps
+     1          0     1      1    Krippendorff      20000
+     1          0     1      1   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90            1             1
+      0.80            1             1
+      0.70            1             1
+      0.67            1             1
+      0.60            1             1
+      0.50            1             1
+> print(alpha5)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+ 0.815      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error 2.5 % 97.5 % Boot. technique Bootstraps
+ 0.815      0.066 0.683  0.921    Krippendorff      20000
+ 0.813      0.068 0.665  0.923   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90        0.072         0.082
+      0.80        0.602         0.584
+      0.70        0.956         0.952
+      0.67        0.980         0.974
+      0.60        0.999         0.996
+      0.50        1.000         1.000
+> print(alpha6)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+ 0.861      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error 2.5 % 97.5 % Boot. technique Bootstraps
+ 0.861      0.068 0.722  0.965    Krippendorff      20000
+ 0.861      0.071 0.703  0.972   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90        0.230         0.312
+      0.80        0.787         0.801
+      0.70        0.982         0.975
+      0.67        0.993         0.987
+      0.60        0.999         0.998
+      0.50        1.000         1.000
+> print(alpha7)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+ 0.943      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error 2.5 % 97.5 % Boot. technique Bootstraps
+ 0.943      0.040 0.858      1    Krippendorff      20000
+ 0.943      0.041 0.841      1   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90        0.861         0.854
+      0.80        0.999         0.996
+      0.70        1.000         1.000
+      0.67        1.000         1.000
+      0.60        1.000         1.000
+      0.50        1.000         1.000
+> print(alpha8)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+  0.89      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error 2.5 % 97.5 % Boot. technique Bootstraps
+ 0.890      0.062 0.743      1    Krippendorff      20000
+ 0.886      0.064 0.740      1   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90        0.423         0.462
+      0.80        0.922         0.903
+      0.70        0.997         0.992
+      0.67        0.997         0.996
+      0.60        1.000         0.999
+      0.50        1.000         1.000
+> print(alpha9)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+     1      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error 2.5 % 97.5 % Boot. technique Bootstraps
+     1          0     1      1    Krippendorff      20000
+     1          0     1      1   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90            1             1
+      0.80            1             1
+      0.70            1             1
+      0.67            1             1
+      0.60            1             1
+      0.50            1             1
+> print(alpha10)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+ 0.738      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error  2.5 % 97.5 % Boot. technique Bootstraps
+ 0.737      0.184  0.345      1    Krippendorff      20000
+ 0.702      0.234 -0.007      1   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90        0.133         0.178
+      0.80        0.397         0.333
+      0.70        0.673         0.590
+      0.67        0.673         0.600
+      0.60        0.858         0.749
+      0.50        0.858         0.825
+> print(alpha11)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+ 0.923      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error 2.5 % 97.5 % Boot. technique Bootstraps
+ 0.923      0.044 0.819      1    Krippendorff      20000
+ 0.920      0.044 0.819      1   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90        0.649         0.625
+      0.80        0.989         0.985
+      0.70        1.000         1.000
+      0.67        1.000         1.000
+      0.60        1.000         1.000
+      0.50        1.000         1.000
+> print(alpha12)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+ 0.789      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error 2.5 % 97.5 % Boot. technique Bootstraps
+ 0.788      0.103 0.579  0.947    Krippendorff      20000
+ 0.777      0.108 0.532  0.949   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90        0.084         0.126
+      0.80        0.421         0.453
+      0.70        0.786         0.790
+      0.67        0.892         0.852
+      0.60        0.952         0.931
+      0.50        0.993         0.985
+> print(alpha13)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+ 0.914      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error 2.5 % 97.5 % Boot. technique Bootstraps
+ 0.914      0.048 0.800      1    Krippendorff      20000
+ 0.912      0.050 0.806      1   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90        0.649         0.619
+      0.80        0.969         0.980
+      0.70        1.000         1.000
+      0.67        1.000         1.000
+      0.60        1.000         1.000
+      0.50        1.000         1.000
+> print(alpha14)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+ 0.662      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error  2.5 % 97.5 % Boot. technique Bootstraps
+ 0.662      0.334 -0.013      1    Krippendorff      20000
+ 0.611      0.386 -0.013      1   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90           NA         0.338
+      0.80           NA         0.365
+      0.70           NA         0.445
+      0.67           NA         0.445
+      0.60           NA         0.648
+      0.50           NA         0.666
+> print(alpha15)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+ 0.917      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error 2.5 % 97.5 % Boot. technique Bootstraps
+ 0.915      0.083 0.750      1    Krippendorff      20000
+ 0.903      0.102 0.655      1   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90        0.731         0.610
+      0.80        0.918         0.851
+      0.70        0.981         0.958
+      0.67        0.981         0.960
+      0.60        0.997         0.988
+      0.50        1.000         0.995
+> print(alpha16)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+     1      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error 2.5 % 97.5 % Boot. technique Bootstraps
+     1          0     1      1    Krippendorff      20000
+     1          0     1      1   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90            1             1
+      0.80            1             1
+      0.70            1             1
+      0.67            1             1
+      0.60            1             1
+      0.50            1             1
+> print(alpha17)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+     1      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error 2.5 % 97.5 % Boot. technique Bootstraps
+     1          0     1      1    Krippendorff      20000
+     1          0     1      1   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90            1             1
+      0.80            1             1
+      0.70            1             1
+      0.67            1             1
+      0.60            1             1
+      0.50            1             1
+> print(alpha18)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+ 0.917      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error 2.5 % 97.5 % Boot. technique Bootstraps
+ 0.916      0.083 0.750      1    Krippendorff      20000
+ 0.909      0.106 0.648      1   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90        0.733         0.660
+      0.80        0.920         0.875
+      0.70        0.981         0.957
+      0.67        0.981         0.959
+      0.60        0.997         0.984
+      0.50        1.000         0.993
+> print(alpha19)
+
+ Krippendorff's alpha 
+
+ alpha coders units   level
+ 0.787      2    77 nominal
+
+ Bootstrapped alpha
+ Alpha Std. Error 2.5 % 97.5 % Boot. technique Bootstraps
+ 0.786      0.148 0.469      1    Krippendorff      20000
+ 0.766      0.179 0.319      1   nonparametric       1000
+
+ P(alpha > alpha_min):
+ alpha_min krippendorff nonparametric
+      0.90        0.130         0.228
+      0.80        0.399         0.445
+      0.70        0.675         0.728
+      0.67        0.858         0.757
+      0.60        0.858         0.866
+      0.50        0.950         0.917
+      

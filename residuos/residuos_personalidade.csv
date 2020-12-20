@@ -1,0 +1,27 @@
+﻿CASOS;;;;;;
+Alvo;2015-2016 FB;2019-2020 FB;2019-2020 WA;Total;;
+Dilma;173;8;32;213;;
+Lula;155;61;140;356;;
+Ambos;45;2;19;66;;
+Total;373;71;191;635;;
+;;;;;;
+FREQUÊNCIA ESPERADA;;;;;;Frequência esperada = (Marginal Linha x Marginal Coluna) / Total
+Alvo;2015-2016 FB;2019-2020 FB;2019-2020 WA;Total;;
+Dilma;125,1165354;23,81574803;64,06771654;213;;
+Lula;209,1149606;39,80472441;107,080315;356;;
+Ambos;38,76850394;7,379527559;19,8519685;66;;
+Total;373;71;191;635;;
+;;;;;;
+RESÍDUOS BRUTOS;;;;;;Resíduo Bruto = Frequência Obtida - Frequência Esperada
+Alvo;2015-2016 FB;2019-2020 FB;2019-2020 WA;Total;;
+Dilma;47,88346457;-15,81574803;-32,06771654;0;;
+Lula;-54,11496063;21,19527559;32,91968504;0;;
+Ambos;6,231496063;-5,379527559;-0,851968504;0;;
+Total;0;0;0;0;;
+;;;;;;
+RESÍDUOS PADRONIZADOS;;;;;;Resíduo Padronizado = Resíduo Bruto / (Raiz(Frequência Esperada))
+Alvo;2015-2016 FB;2019-2020 FB;2019-2020 WA;Total;;
+Dilma;4,281;-3,241;-4,006;213;;
+Lula;-3,742;3,359;3,181;356;;
+Ambos;1,001;-1,980;-0,191;66;;
+Total;0;0;0;635;;
